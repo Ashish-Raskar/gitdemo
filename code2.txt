@@ -1,1 +1,4 @@
-this is file2
+this is file2 
+
+new line added in code2.txt
+
